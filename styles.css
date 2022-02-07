@@ -15,7 +15,7 @@ body {
 .card {
     height: 70vh;
     width: 45vh;
-    background: #FFF;
+    background: #FFF; 
     padding: 3vh;
     border-radius: 10px;
 }
