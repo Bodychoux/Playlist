@@ -31,3 +31,21 @@ body {
     background-image: url(/img/song.svg);
     background-size: cover;
 }
+.SO{
+    margin: 0 0 ;
+    color: #604E3A ;
+    font-size: 37px;
+    margin-bottom:16px ;
+}
+
+.TOP{
+margin:0;
+font-size: 12px;
+margin-top:3px ;
+color: #604E3A ;
+transition: 0.3s;
+}
+.TOP:hover{
+    color: #382e21;
+
+}
